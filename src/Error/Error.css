@@ -1,0 +1,16 @@
+
+.error{
+    font-size: larger;
+    animation: error 4s infinite alternate linear;
+}
+
+@keyframes error {
+    to {margin: 60%;
+    width: 200%;}
+
+    from {
+        margin: 100%;
+        width: 200%;
+    }
+    
+}

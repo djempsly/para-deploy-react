@@ -1,0 +1,66 @@
+
+.todo-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+     margin: 10px; 
+    background-color: aliceblue;
+    border-radius: 35px 0;
+    
+    box-shadow: 5px 10px 10px rgb(197, 148, 197);
+  
+}
+
+.Icon{
+    padding: 10px;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+   
+
+} 
+.Icon-check{
+   color: black;
+} 
+
+.Icon-check:hover{
+    color: green;
+    background-color: aquamarine;
+    border-radius: 30px 0 0 0;
+border-right:2px solid black ;
+
+
+}
+
+.Icon-Complete{
+color: green;
+}
+.parrafo{
+font-size: 15px;
+padding: 0 10px;
+
+}
+
+.parrafo-complete{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.Icon-delete{
+color: rgb(133, 22, 22);
+} 
+
+.Icon-close{
+    border-radius: 0 0  30px 0;
+    
+}
+
+.Icon-close:hover{
+color: rgb(176, 49, 49);
+background-color: rgb(185, 114, 114);
+border-left: 2px solid black;
+}

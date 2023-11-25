@@ -1,0 +1,30 @@
+
+.cargando{
+    width: 100px;
+    height: 30px;
+    animation: cargando 5s alternate infinite linear ;
+    background-color: aqua;
+    font-size: 20px;
+    margin-left: -50px;
+    font-weight: bold;
+    font-family:  monospace;
+}
+
+@keyframes cargando {
+    to {
+        margin-left: 0%;
+        width: 300%;
+      }
+    
+      from {
+        margin-right: 100%;
+        width: 200%;
+      }
+
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+}

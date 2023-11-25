@@ -1,0 +1,17 @@
+
+.modal-item{
+    width: 80%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 82px;
+    right: 141px;
+
+}
+
+@media (max-width:640px){
+    .modal-item{
+        
+        right: 72px;
+    }
+}

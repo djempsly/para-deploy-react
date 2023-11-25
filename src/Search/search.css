@@ -1,0 +1,20 @@
+.search{
+    width: 200px;
+    border-radius: 10px;
+    height: 20px;
+    margin-bottom: -20px;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(161, 114, 188);
+}
+
+.search::placeholder{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+   padding: 10px 0;
+}
+
+.search:focus{
+    outline-color: aquamarine;
+}

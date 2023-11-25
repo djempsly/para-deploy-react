@@ -1,0 +1,10 @@
+
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+
+}
+
+.titulo span{
+    font-weight: 700;
+}
