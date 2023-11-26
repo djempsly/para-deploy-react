@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/para-deploy-react/static/css/main.716f34b1.css",
+    "main.js": "/para-deploy-react/static/js/main.01cabfad.js",
+    "static/js/787.0a6b1a04.chunk.js": "/para-deploy-react/static/js/787.0a6b1a04.chunk.js",
+    "static/media/Screen.jpeg": "/para-deploy-react/static/media/Screen.c919c8511a2081c58527.jpeg",
+    "index.html": "/para-deploy-react/index.html",
+    "main.716f34b1.css.map": "/para-deploy-react/static/css/main.716f34b1.css.map",
+    "main.01cabfad.js.map": "/para-deploy-react/static/js/main.01cabfad.js.map",
+    "787.0a6b1a04.chunk.js.map": "/para-deploy-react/static/js/787.0a6b1a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716f34b1.css",
+    "static/js/main.01cabfad.js"
+  ]
+}
