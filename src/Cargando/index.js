@@ -3,9 +3,12 @@ import './cargando.css'
 
 function Cargando(){
     return(
-        <div className="cargando">
-            Cargando...
-        </div>
+        <>  <div className="cargando">
+            </div>
+            <p className="parrafo-cargando">
+            Cargando...</p>
+        </>
+      
     );
 }
 
